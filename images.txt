@@ -1,1 +1,2 @@
 nastool/nas-tools
+portainer/portainer-ce
