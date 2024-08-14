@@ -1,2 +1,3 @@
 nastool/nas-tools
 portainer/portainer-ce
+zerotier/zerotier-synology:latest
